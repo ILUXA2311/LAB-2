@@ -1,2 +1,3 @@
 Data base on datagrid
-<img src = "https://raw.githubusercontent.com/Zusith/DataBaseDataGrid/master/Datagrid.png" alt = "https://raw.githubusercontent.com/Zusith/DataBaseDataGrid/master/Datagrid.png">
+![image](https://user-images.githubusercontent.com/80273530/206936158-7d8c499a-804a-44d9-bd39-a3baadc2d9bf.png)
+
